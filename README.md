@@ -31,7 +31,11 @@ Go to [FAQ](#faq) ⬇️
 ## Installation
 
 ```
-$ yarn add vue-beautiful-chat
+$ yarn add bharatbiswal/vue-beautiful-chat
+```
+or
+```
+$ npm install bharatbiswal/vue-beautiful-chat --save
 ```
 
 ## Example
