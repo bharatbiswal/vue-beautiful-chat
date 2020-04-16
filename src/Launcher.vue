@@ -230,6 +230,7 @@ export default {
   background-position: center;
   background-repeat: no-repeat;
   position: fixed;
+  z-index: 5;
   right: 25px;
   bottom: 25px;
   border-radius: 50%;
